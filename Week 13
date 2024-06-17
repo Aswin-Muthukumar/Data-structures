@@ -14,7 +14,7 @@ struct Edge {
 };
 
 struct Graph {
-    int V, E;
+    int V, E; 
     struct Edge* edge;
 };
 
