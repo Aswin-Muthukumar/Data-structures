@@ -15,7 +15,7 @@ i)Open Addressing:
 
 struct HashNode {
     int key;
-    int value;
+    int value; 
     bool occupied;
 };
 
