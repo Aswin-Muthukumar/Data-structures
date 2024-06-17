@@ -12,7 +12,7 @@ struct Tree
   struct Tree *left;
   struct Tree *right;};
 typedef struct Tree tree;
-//tree *root=NULL;
+//tree *root=NULL; 
 
 tree *create(tree *root,int x)
 { if(root==NULL)
