@@ -13,7 +13,7 @@ int top = -1;
 void push(char value) {
     stack[++top] = value;
 }
-
+ 
 char pop() {
     return stack[top--];
 }
