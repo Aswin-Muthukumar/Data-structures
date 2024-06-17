@@ -12,7 +12,7 @@ Algorithm:
 // Define a structure for the BST node
 struct Node {
     int data;
-    struct Node *left, *right;
+    struct Node *left, *right; 
 };
 
 // Function to create a new BST node
