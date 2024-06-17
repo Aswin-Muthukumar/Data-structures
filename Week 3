@@ -14,7 +14,7 @@ Polynomial addition:
 struct poly
 
 {
-
+ 
 int coeff;
 
 int pow;
