@@ -15,7 +15,7 @@ Array Implementation:
 
 #define MAX_SIZE 10
 
-struct ArrayStack {
+struct ArrayStack { 
     int top;
     int array[MAX_SIZE];
 };
