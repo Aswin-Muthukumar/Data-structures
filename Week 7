@@ -15,7 +15,7 @@ struct Queue
   struct Queue *next;};
 typedef struct Queue q;
 q *f=NULL;
-q *r=NULL;
+q *r=NULL; 
 
 void enqueue(int x)
 { q *newnode=malloc(sizeof(q));
